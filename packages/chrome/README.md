@@ -1,11 +1,3 @@
-# `chrome`
+# `smollink-chrome`
 
-> TODO: description
-
-## Usage
-
-```
-const chrome = require('chrome');
-
-// TODO: DEMONSTRATE API
-```
+chrome extension for smollink

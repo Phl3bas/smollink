@@ -1,11 +1,3 @@
 # `www`
 
-> TODO: description
-
-## Usage
-
-```
-const www = require('www');
-
-// TODO: DEMONSTRATE API
-```
+front end ui for smollink

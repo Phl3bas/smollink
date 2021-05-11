@@ -1,0 +1,15 @@
+{
+  "name": "smollink",
+  "version": "0.0.1",
+  "description": "url shortener site and chrome extension",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "lerna bootstrap",
+    "test": "test"
+  },
+  "author": "Sepp Wikramaratna-Clarke <Phl3bas87@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
